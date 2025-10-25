@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/bers-pfolio/static/css/main.50c193f0.css",
+    "main.js": "/bers-pfolio/static/js/main.c2f63d8c.js",
+    "static/media/robusty-additional-third.gif": "/bers-pfolio/static/media/robusty-additional-third.a7ca54d6a0424f003079.gif",
+    "static/media/robusty-additional-fourth.gif": "/bers-pfolio/static/media/robusty-additional-fourth.6c2bef236bd0048ac8db.gif",
+    "static/media/ainv.gif": "/bers-pfolio/static/media/ainv.8321d182862cc4e16d5d.gif",
+    "static/media/robusty-additional-first.gif": "/bers-pfolio/static/media/robusty-additional-first.67af58407c5d5fee80a3.gif",
+    "static/media/robusty.gif": "/bers-pfolio/static/media/robusty.258d75c25ecde986afda.gif",
+    "static/media/iansh.gif": "/bers-pfolio/static/media/iansh.ccf7d783ff1e4fd27d3f.gif",
+    "static/media/mpwh.gif": "/bers-pfolio/static/media/mpwh.4e3f088afcb4d7cf531d.gif",
+    "static/media/rclh.gif": "/bers-pfolio/static/media/rclh.9583e9d7c6bb52ad1743.gif",
+    "static/media/finai.gif": "/bers-pfolio/static/media/finai.3c2dc7fe770594d144d1.gif",
+    "static/media/elemetrix.gif": "/bers-pfolio/static/media/elemetrix.e8c2e8559624dbb49d77.gif",
+    "static/media/robusty-additional-second.gif": "/bers-pfolio/static/media/robusty-additional-second.bd2046ad25e5d6b09eb1.gif",
+    "static/media/elemetrix-additional-second.gif": "/bers-pfolio/static/media/elemetrix-additional-second.076c7f10606b4a54422d.gif",
+    "static/media/rclh-additional-fourth.png": "/bers-pfolio/static/media/rclh-additional-fourth.ebf61a996538d78335d4.png",
+    "static/media/rclh-additional-second.png": "/bers-pfolio/static/media/rclh-additional-second.cf0c37220183ffe47711.png",
+    "static/media/rclh-additional-sixth.png": "/bers-pfolio/static/media/rclh-additional-sixth.b7c5643e7d4909b1a7b5.png",
+    "static/media/rclh-additional-third.png": "/bers-pfolio/static/media/rclh-additional-third.241ef7bededd3cf78a15.png",
+    "static/media/rclh-additional-first.png": "/bers-pfolio/static/media/rclh-additional-first.2004f895da8906f6e1a8.png",
+    "static/media/rclh-additional-fifth.png": "/bers-pfolio/static/media/rclh-additional-fifth.9ad0426035ba00b73030.png",
+    "static/media/elemetrix-additional-first.gif": "/bers-pfolio/static/media/elemetrix-additional-first.9a2d5bc759ac70c7879d.gif",
+    "static/media/ics.gif": "/bers-pfolio/static/media/ics.370d9f99719f0c294393.gif",
+    "static/media/photo1.png": "/bers-pfolio/static/media/photo1.eb18327b2ed7f65ef703.png",
+    "static/media/imgholder.png": "/bers-pfolio/static/media/imgholder.85ff0eba77fbbe92f4d0.png",
+    "static/media/cryptodon.png": "/bers-pfolio/static/media/cryptodon.baaa4776372b705cb682.png",
+    "static/media/lnch.png": "/bers-pfolio/static/media/lnch.89af30a27bf802e0b962.png",
+    "static/media/icon-bootstrap-100p.png": "/bers-pfolio/static/media/icon-bootstrap-100p.5521eb4ee5e8d6bccd34.png",
+    "index.html": "/bers-pfolio/index.html",
+    "main.50c193f0.css.map": "/bers-pfolio/static/css/main.50c193f0.css.map",
+    "main.c2f63d8c.js.map": "/bers-pfolio/static/js/main.c2f63d8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50c193f0.css",
+    "static/js/main.c2f63d8c.js"
+  ]
+}
